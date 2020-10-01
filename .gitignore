@@ -131,11 +131,11 @@ runs/
 examples/runs
 
 # logs
-logs/
+log/
 
 # emacs
 *.*~
 debug.env
 
 # Repository Specific
-
+*.m
